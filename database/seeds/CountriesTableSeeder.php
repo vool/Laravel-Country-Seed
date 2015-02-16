@@ -12,7 +12,7 @@ class CountriesTableSeeder extends Seeder {
 			array('id' => 3, 'code' => 'AF', 'name' => 'Afghanistan'),
 			array('id' => 4, 'code' => 'AL', 'name' => 'Albania'),
 			array('id' => 5, 'code' => 'DZ', 'name' => 'Algeria'),
-			array('id' => 6, 'code' => 'DS', 'name' => 'American Samoa'),
+			array('id' => 6, 'code' => 'AS', 'name' => 'American Samoa'),
 			array('id' => 7, 'code' => 'AD', 'name' => 'Andorra'),
 			array('id' => 8, 'code' => 'AO', 'name' => 'Angola'),
 			array('id' => 9, 'code' => 'AI', 'name' => 'Anguilla'),
