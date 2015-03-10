@@ -190,6 +190,7 @@ ass CountriesTableSeeder extends Seeder {
 			array( 'code' => 'ST', 'name' => 'Sao Tome and Principe'),
 			array( 'code' => 'SA', 'name' => 'Saudi Arabia'),
 			array( 'code' => 'SN', 'name' => 'Senegal'),
+			array( 'code' => 'RS', 'name' => 'Serbia'),
 			array( 'code' => 'SC', 'name' => 'Seychelles'),
 			array( 'code' => 'SL', 'name' => 'Sierra Leone'),
 			array( 'code' => 'SG', 'name' => 'Singapore'),
