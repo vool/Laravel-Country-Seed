@@ -1,4 +1,6 @@
-ass CountriesTableSeeder extends Seeder {
+<?php
+
+class CountriesTableSeeder extends Seeder {
 	
 	public function run() 
 	{
